@@ -1,0 +1,16 @@
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\bin\Debug\net5.0\HarrysBook.exe
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\bin\Debug\net5.0\HarrysBook.deps.json
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\bin\Debug\net5.0\HarrysBook.runtimeconfig.json
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\bin\Debug\net5.0\HarrysBook.runtimeconfig.dev.json
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\bin\Debug\net5.0\HarrysBook.dll
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\bin\Debug\net5.0\ref\HarrysBook.dll
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\bin\Debug\net5.0\HarrysBook.pdb
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\HarrysBook.csproj.AssemblyReference.cache
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\HarrysBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\HarrysBook.AssemblyInfoInputs.cache
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\HarrysBook.AssemblyInfo.cs
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\HarrysBook.csproj.CoreCompileInputs.cache
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\HarrysBook.dll
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\ref\HarrysBook.dll
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\HarrysBook.pdb
+C:\Users\joshua.duxbury\RiderProjects\HarrysBook\HarrysBook\obj\Debug\net5.0\HarrysBook.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarrysBook", "HarrysBook\HarrysBook.csproj", "{E21B8089-880D-47EF-8559-67A1530CD846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryBooks.BuyBookService.Tests", "HarryBooks.BuyBookService.Tests\HarryBooks.BuyBookService.Tests.csproj", "{1D1C72F9-6B1C-4F75-B182-078BB8E37913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21B8089-880D-47EF-8559-67A1530CD846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21B8089-880D-47EF-8559-67A1530CD846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21B8089-880D-47EF-8559-67A1530CD846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21B8089-880D-47EF-8559-67A1530CD846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1C72F9-6B1C-4F75-B182-078BB8E37913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1C72F9-6B1C-4F75-B182-078BB8E37913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1C72F9-6B1C-4F75-B182-078BB8E37913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1C72F9-6B1C-4F75-B182-078BB8E37913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

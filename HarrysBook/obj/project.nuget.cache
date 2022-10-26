@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RmVlTFl02mVIJU+g8xM4XcdcvJIfeCRqUp5pzTh/fJb9v3WOy/K18TPpBvOFJ3Pe2+0q1RYC9GUL+tYfGAEbTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joshua.duxbury\\RiderProjects\\HarrysBook\\HarrysBook\\HarrysBook.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.theautonetwork.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
